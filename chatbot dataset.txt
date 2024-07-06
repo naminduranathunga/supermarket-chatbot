@@ -1,0 +1,81 @@
+Hi! 	Hello! How can I assist you?
+Hello! 	Hello! How can I assist you?
+Hi! I want to buy some grocery items.	Sure. What items are you looking for?
+I need coffee powder, milk powder, sugar, and noodles.	Sure! Here are the shelf numbers for the items you asked for. <shelf numbers>
+Thank you!	You are welcome!
+Hi! I need some pet food.	What kind of pet food do you need?
+I need dog food and cat food.	Dog Food is in <shelf> and Cat Food is in <shelf>.
+Thank you!	You are welcome!
+I need dish soap, floor cleaner, and sponges.	Dish soap is on shelf 12, floor cleaner is on shelf 13, and sponges are on shelf 14.
+Thank you very much!	You are welcome! If you need anything else, just let me know.
+Great, thanks!	You’re welcome! Happy shopping!
+I need baby shampoo, baby lotion, and diapers.	Baby shampoo is on shelf 11, baby lotion is on shelf 12, and diapers are on shelf 13.
+Thanks for the help!	You’re welcome! Have a great day!
+Thank you!	You’re welcome! If you need anything else, let me know.
+Thank you very much!	You’re welcome! Enjoy your meal!
+Great, thank you!	You’re welcome! Have a nice day!
+I need canned beans, canned tomatoes, and canned corn.	Canned beans are on shelf 6, canned tomatoes are on shelf 7, and canned corn is on shelf 8.
+Thanks for your help!	You’re welcome! Happy shopping!
+Thank you!	You’re welcome! Have fun baking!
+Thanks a lot!	You’re welcome! Have a great day!
+I need toothpaste, soap, and shampoo.	Toothpaste is on shelf 9, soap is on shelf 10, and shampoo is on shelf 11.
+Thank you very much!	You’re welcome! If you need anything else, just ask.
+I need apples, bananas, and oranges.	Great! You can find apples on shelf 5, bananas on shelf 6, and oranges on shelf 7.
+Thank you!	You are welcome! Have a great shopping experience!
+Great, thank you!	You’re welcome! Enjoy your fresh produce!
+Thank you!	You’re welcome! Have a great shopping experience!
+I need bread, muffins, and pastries.	Bread is on shelf 2, muffins are on shelf 3, and pastries are on shelf 4.
+Thanks for your help!	You’re welcome! Enjoy your treats!
+I need lettuce, tomatoes, and cucumbers.	Lettuce is on shelf 1, tomatoes are on shelf 2, and cucumbers are on shelf 3.
+Thank you very much!	You’re welcome! Enjoy your salad!
+Great, thank you!	You’re welcome! Have a great snack!
+I need paper towels, toilet paper, and trash bags.	Paper towels are on shelf 8, toilet paper is on shelf 9, and trash bags are on shelf 10.
+Thanks a lot!	You’re welcome! Have a great day!
+Thank you!	You’re welcome! Enjoy your shopping!
+Thank you very much!	You’re welcome! Have a great meal!
+Hi! I need some cleaning supplies.	Sure! What do you need?
+I need laundry detergent, dish soap, and paper towels.	Laundry Detergent is in Aisle 15, Dish Soap is in Aisle 16, and Paper Towels are in Aisle 17.
+Thank you!	You are welcome!
+I need ketchup, mustard, and mayonnaise.	Ketchup is on shelf 5, mustard is on shelf 6, and mayonnaise is on shelf 7.
+Thanks for the help!	You’re welcome! Enjoy your condiments!
+Thanks a lot!	No problem! If you need any more assistance, feel free to ask.
+Great, thank you!	You’re welcome! Have a great day!
+I need cookies, crackers, and juice boxes.	Cookies are on shelf 7, crackers are on shelf 8, and juice boxes are on shelf 9.
+Thank you very much!	You’re welcome! Enjoy your snacks!
+Hi! I’m looking for some toiletries.	What items do you need?
+I need shampoo, toothpaste, and soap.	Shampoo is in Aisle 12, Toothpaste is in Aisle 13, and Soap is in Aisle 14.
+Thanks!	Happy to help!
+Thank you!	You’re welcome! Have fun baking!
+Great, thank you!	You’re welcome! Have a great day!
+Awesome, thanks!	You’re welcome! Enjoy your shopping!
+Thanks for the information!	You’re welcome! Have a great day!
+Okay, I'll try another card. Thanks!	You’re welcome! Hope it works out!
+Great, thank you!	You’re welcome! Have a nice day!
+Thank you!	You’re welcome! Have a great day!
+I need cumin powder, turmeric powder, and chili powder.	You can find cumin powder on shelf 8, turmeric powder on shelf 9, and chili powder on shelf 10.
+Perfect, thanks!	You’re welcome! Enjoy your shopping!
+I’m looking for almond milk.	Let me check for you. [Pause] It appears almond milk is currently out of stock. You might want to check back in a few days or ask a staff member for alternatives.
+Okay, thank you!	You’re welcome! Sorry for the inconvenience.
+Thank you, I’ll do that.	You’re welcome! Hope it gets resolved quickly.
+Thank you!	You’re welcome! Hope you find it soon.
+Thank you!	You’re welcome! Have a great shopping experience!
+I need cumin powder, turmeric powder, and chili powder.	You can find cumin powder on shelf 8, turmeric powder on shelf 9, and chili powder on shelf 10.
+Perfect, thanks!	You’re welcome! Enjoy your shopping!
+Thank you!	You’re welcome! Enjoy!
+Thanks!	You’re welcome! Happy shopping!
+We need baby formula and diapers.	Baby formula is on shelf 11 and diapers are on shelf 12.
+Thank you very much!	You’re welcome! Have a great day!
+I’ll try another card. Thanks!	You’re welcome! Hope it works out!
+Thank you!	You’re welcome! Have a nice day!
+Great, thank you!	You’re welcome! Enjoy your savings!
+Great, thank you!	You’re welcome! Enjoy your savings!
+Thanks a lot!	No problem! If you need any more assistance, feel free to ask.
+I need dish soap, floor cleaner, and sponges.	Dish soap is on shelf 12, floor cleaner is on shelf 13, and sponges are on shelf 14.
+Thank you very much!	You are welcome! If you need anything else, just let me know.
+I need cumin powder, turmeric powder, and chili powder.	You can find cumin powder on shelf 8, turmeric powder on shelf 9, and chili powder on shelf 10.
+Perfect, thanks!	You’re welcome! Enjoy your shopping!
+Great, thanks!	You’re welcome! Happy shopping!
+I want some items	Sure. What items are you looking for?
+I want some products	Sure. What products are you looking for?
+I want items	Sure. What items are you looking for?
+I want products	Sure. What products are you looking for?

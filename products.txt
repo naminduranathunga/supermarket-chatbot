@@ -1,0 +1,56 @@
+#<product name>, <category>, <shelf number>
+cumin powder, ,shelf 2
+eggs, ,shelf 1
+coffee powder, coffee,shelf 4
+nescafe 50g, coffee,shelf 4
+granulated sugar, baking, shelf 3
+red bell pepper, produce, shelf A2
+ground beef, meat, refrigerator section B
+olive oil, cooking oil, shelf 5
+cereal flakes, breakfast, shelf 6
+detergent powder, cleaning supplies, aisle 7
+facial tissues, personal care, aisle 9
+aluminum foil, wraps, shelf 8
+bananas, produce, shelf B1
+frozen pizza, frozen food, freezer section C
+milk (1 liter), dairy, refrigerator section A
+shampoo, personal care, aisle 9
+canned tomatoes, canned goods, shelf 10
+potato chips, snacks, aisle 12
+garbage bags, cleaning supplies, aisle 7
+whole wheat bread, bakery,shelf 3
+skimmed milk, dairy,shelf 1
+cheddar cheese, dairy,shelf 1
+green apples, produce,shelf 5
+bananas, produce,shelf 5
+chicken breast, meat,shelf 6
+ground beef, meat,shelf 6
+corn flakes, cereals,shelf 2
+orange juice, beverages,shelf 7
+almonds, snacks,shelf 3
+dark chocolate bar, snacks,shelf 3
+olive oil, cooking oils,shelf 2
+pasta, pasta & rice,shelf 2
+basmati rice, pasta & rice,shelf 2
+tomato ketchup, condiments,shelf 3
+mayonnaise, condiments,shelf 3
+dishwasher tablets, cleaning supplies,shelf 8
+laundry detergent, cleaning supplies,shelf 8
+paper towels, household goods,shelf 8
+toilet paper, household goods,shelf 8
+shampoo, personal care,shelf 9
+toothpaste, personal care,shelf 9
+body lotion, personal care,shelf 9
+granola bars, snacks,shelf 3
+peanut butter, spreads,shelf 3
+honey, spreads,shelf 3
+white sugar, baking,shelf 2
+all-purpose flour, baking,shelf 2
+baking powder, baking,shelf 2
+black pepper, spices,shelf 2
+garlic powder, spices,shelf 2
+oatmeal, cereals,shelf 2
+green tea, beverages,shelf 7
+sparkling water, beverages,shelf 7
+frozen peas, frozen foods,shelf 10
+ice cream, frozen foods,shelf 10
